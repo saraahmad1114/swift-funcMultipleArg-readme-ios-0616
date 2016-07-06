@@ -1,3 +1,6 @@
+
+//why are you giving us all the answers??
+
 func moonsOfJupiter() {
     print("There are 67 moons orbiting Jupiter.")
 }
@@ -28,6 +31,7 @@ func greet(name: String, greeting: String) {
 func planetDescription(planet: String, numberOfMoons: Int) {
     print("There are \(numberOfMoons) moons orbiting \(planet)")
 }
+
 
 // This line of code gives an error.
 // Uncomment it to see what the error is!
